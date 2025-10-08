@@ -74,7 +74,7 @@ map=new GMaps({
 map.addMarker({
         lat: 23.790223,
         lng: 90.414036,
-        title: 'GhuGhu',
+        title: 'mmp',
         infoWindow: {
             content: '<span class="map-header">Ghu Ghu Headquarters</span><span class="map-address">Build-A/6, Mirpur 14 , Dhaka</span'
         }
