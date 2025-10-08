@@ -76,7 +76,7 @@ map.addMarker({
         lng: 90.414036,
         title: 'mmp',
         infoWindow: {
-            content: '<span class="map-header">Ghu Ghu Headquarters</span><span class="map-address">Build-A/6, Mirpur 14 , Dhaka</span'
+            content: '<span class="map-header">MM </span><span class="map-address">Build-A/6, Mirpur 14 , Dhaka</span'
         }
     });
 
